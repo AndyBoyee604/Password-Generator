@@ -10,7 +10,7 @@ Password Generator will generate a randomized password for you with highest secu
 https://andyboyee604.github.io/Password-Generator/
 
 ## Usage
-![alt text](/assets/image/passwordscreen.jpg)
+![alt text](assets/image/passwordscreen.jpg)
 Step 1: Click on "Generate Password" <br />
 Step 2: Follow the instructions in the pop up window <br />
 Note: Atleast one citeria has to be chosen so a randomized password can generate.
